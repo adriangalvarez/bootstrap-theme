@@ -12,3 +12,9 @@ header{
   margin-top: 40px;
   text-align: center;
 }
+
+footer{
+  background: url('../img/contact.png');
+  background-position: right 30px;
+  background-color: #E0E0E0;
+}
